@@ -1,0 +1,9 @@
+C:\Users\Home\source\repos\PROBA\PROBA\obj\Debug\PROBA.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\PROBA\PROBA\obj\Debug\PROBA.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PROBA\PROBA\bin\Debug\Database1.mdf
+C:\Users\Home\source\repos\PROBA\PROBA\bin\Debug\Database1_log.ldf
+C:\Users\Home\source\repos\PROBA\PROBA\bin\Debug\PROBA.exe.config
+C:\Users\Home\source\repos\PROBA\PROBA\bin\Debug\PROBA.exe
+C:\Users\Home\source\repos\PROBA\PROBA\bin\Debug\PROBA.pdb
+C:\Users\Home\source\repos\PROBA\PROBA\obj\Debug\PROBA.exe
+C:\Users\Home\source\repos\PROBA\PROBA\obj\Debug\PROBA.pdb
