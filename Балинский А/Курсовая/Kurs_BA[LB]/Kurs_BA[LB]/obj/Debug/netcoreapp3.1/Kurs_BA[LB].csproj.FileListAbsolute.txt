@@ -1,0 +1,28 @@
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].exe
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].deps.json
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].runtimeconfig.json
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].dll
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].pdb
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].AssemblyInfo.cs
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].dll
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].pdb
+C:\Users\Александр\source\repos\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].genruntimeconfig.cache
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].exe
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].deps.json
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].runtimeconfig.json
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].runtimeconfig.dev.json
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].dll
+D:\Kurs_BA[LB]\Kurs_BA[LB]\bin\Debug\netcoreapp3.1\Kurs_BA[LB].pdb
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].csprojAssemblyReference.cache
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].AssemblyInfoInputs.cache
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].AssemblyInfo.cs
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].csproj.CoreCompileInputs.cache
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].dll
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].pdb
+D:\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].genruntimeconfig.cache
+\\server-35-pc\Для сохранения работ\215 группа\312 курсовые работы\Балинский А\Курсовая\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].dll
+\\server-35-pc\Для сохранения работ\215 группа\312 курсовые работы\Балинский А\Курсовая\Kurs_BA[LB]\Kurs_BA[LB]\obj\Debug\netcoreapp3.1\Kurs_BA[LB].pdb
