@@ -8,13 +8,12 @@ namespace Kursova
 {
     internal class Route
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public int Nom {  get; set; }
         public string Start { get; set; }
         public string End { get; set; }
         public DateTime Timestart { get; set; }
         public DateTime Timeend { get; set; }
-        public Bus bus {  get; set; }
         public Route() { }
     }
 }
