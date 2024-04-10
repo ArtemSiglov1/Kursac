@@ -54,24 +54,23 @@ namespace Kursova
                 if (string.IsNullOrEmpty(fullName.FirstName) ||
                     string.IsNullOrEmpty(fullName.LastName))
                 {
-                    throw new ArgumentException("Имя и фамилия не могут быть пустыми");
+                    throw new Exception();
                 }
             }
-            catch { Console.WriteLine(new ArgumentException("Имя и фамилия не могут быть пустыми")); FullName.Init(); }
-            if (fullName.MiddleName !=null)
+            catch { Console.WriteLine(new ArgumentException("Имя и фамилия не могут быть пустыми")) ;fullName= FullName.Init(); }
+            
+            
+            try
             {
-                if (fullName.MiddleName == string.Empty)
+                foreach (char c in fullName.FirstName + fullName.LastName + fullName.MiddleName)
                 {
-                    throw new ArgumentException("отчество не может быть пустым");
+                    if (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z')
+                    {
+                        throw new Exception();
+                    }
                 }
             }
-            foreach (char c in fullName.FirstName + fullName.LastName + fullName.MiddleName)
-            {
-                if (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z')
-                {
-                    throw new ArgumentException("буквы только русской расскладки");
-                }
-            }
+            catch { Console.WriteLine( new ArgumentException("буквы только русской расскладки")); fullName = FullName.Init(); }
             return fullName;
 
         }
@@ -93,7 +92,7 @@ namespace Kursova
 
         public override string ToString()
         {
-            return $"FIO-{FullName.ToString()}\nСтаж-{Experience}\nКласс-{ExperienceLevel}\nДоход-{Salary}\nМаршрут-{Route}\nГрафик-{Schedule}";
+            return $"Id-{Id}\nFIO:\n{FullName.ToString()}\nСтаж-{Experience}\nКласс-{ExperienceLevel}\nДоход-{Salary}\nМаршрут-{Route}\nГрафик-{Schedule}";
         }
         
         

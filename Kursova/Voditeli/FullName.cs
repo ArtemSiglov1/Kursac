@@ -39,7 +39,7 @@ namespace Kursova
             Console.WriteLine();
             string lastName = Console.ReadLine();
             Console.WriteLine();
-            string middleName = Console.ReadLine();
+            string middleName = Console.ReadLine()  ;
             return new FullName(firstName, lastName, middleName);
 
         }
