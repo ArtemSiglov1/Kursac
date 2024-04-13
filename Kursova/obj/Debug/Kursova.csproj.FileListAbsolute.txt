@@ -1,7 +1,0 @@
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\bin\Debug\Kursova.exe.config
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\bin\Debug\Kursova.exe
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\bin\Debug\Kursova.pdb
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\obj\Debug\Kursova.csproj.AssemblyReference.cache
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\obj\Debug\Kursova.exe
-C:\Users\kab31\OneDrive\Рабочий стол\Kursac-main\Kursova\obj\Debug\Kursova.pdb
