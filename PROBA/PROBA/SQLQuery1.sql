@@ -1,1 +1,0 @@
-﻿Insert into Student (Name,Surname) VALUES(N'Вася', N'Пупкин')
